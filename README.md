@@ -3,7 +3,7 @@
 ## Description:
 
 ## Deploy:
-![image](https://github.com/JoanMaGam/pagination/assets/122151033/0bf3dc18-7a87-436c-a96e-3d3f4d3af5a4)
+https://joanmagam.github.io/pagination/
 
 ## Preview:
 
