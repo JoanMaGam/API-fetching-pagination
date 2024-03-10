@@ -1,6 +1,7 @@
 # Pagination
 
 ## Description:
+API consulting with pagination done with React using useState, useEffect and custom hooks, props, promises and array methods.
 
 ## Deploy:
 https://joanmagam.github.io/pagination/
